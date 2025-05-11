@@ -22,12 +22,12 @@ All data is licensed under the Open Government Licence v3.0. https://www.nationa
 The analysis is conducted in a Jupyter notebook called “bus_analysis.ipynb”, with all required data in the “Data” directory of this repository. The library requirements to run the notebook are shown in the table below with version information. You will also need to be able to run Jupyter notebooks on your device or have access to an online application to run them in the web browser, such as Google Colab.
 
 **Library	Version Used**          
-pandas	   | 2.2.3
-geopandas	 | 1.0.1
-matplotlib | 3.9.2
-seaborn	   | 0.13.2
-scipy	     |1.13.1
-numpy	     |2.0.2
+pandas	    2.2.3|
+geopandas	  1.0.1|
+matplotlib  3.9.2|
+seaborn	    0.13.2|
+scipy	     1.13.1|
+numpy	     2.0.2|
 
 
 *References*

@@ -19,7 +19,7 @@ All data is licensed under the Open Government Licence v3.0. https://www.nationa
 
 **Running this Project and Requirements:**
 
-The analysis is conducted in a Jupyter notebook called “bus_analysis.ipynb”, with all required data in the “Data” directory of this repository. The library requirements to run the notebook are shown in the table below with version information. You will also need to be able to run Jupyter notebooks on your device or have access to an online application to run them in the web browser, such as Google Colab.
+The analysis is contained in a Jupyter notebook called “bus_analysis.ipynb”, with all required data in the “Data” directory of this repository - to run the notebook without making changes first, the notebook and Data directory need to be held in the same directory. The library requirements to run the notebook are shown in the table below with version information. You will also need to be able to run Jupyter notebooks on your device or have access to an online application to run them in the web browser, such as Google Colab.
 
 **Library	Version Used**          
 pandas	    2.2.3|
